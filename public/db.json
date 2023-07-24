@@ -1,0 +1,40 @@
+
+[
+    {"id":1,"From":"Chennai","To":"Bangalore","Flight1":"Air India",
+    "Flight2":"IndiGo"
+},
+
+ {"id":2,"From":"Chennai","To":"Hyderabad","Flight1":"Air India",
+"Flight2":"IndiGo"
+}, 
+
+{"id":3,"From":"Chennai","To":"Mumbai","Flight1":"AirAsia",
+"Flight2":"IndiGo"
+},
+{"id":4,"From":"Delhi","To":"Bangalore","Flight1":"Air India",
+"Flight2":"Go First"
+},
+{"id":5,"From":"Delhi","To":"Hyderabad","Flight1":"SpiceJet",
+"Flight2":"GoAir"
+},
+
+
+{"id":6,"From":"Delhi","To":"Mumbai","Flight1":"Air India",
+"Flight2":"TruJet"
+},
+
+{"id":7,"From":"Vishakhapatnam","To":"Bangalore","Flight1":"Air India",
+"Flight2":"Air Costa"
+},
+
+{"id":8,"From":"Vishakhapatnam","To":"Hyderabad","Flight1":"Air India",
+"Flight2":"Star Air"
+},
+{"id":9,"From":"Vishakhapatnam","To":"Mumbai","Flight1":"Air India",
+"Flight2":"IndiGo"
+}
+
+
+
+
+]
